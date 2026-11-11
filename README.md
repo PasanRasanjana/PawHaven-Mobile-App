@@ -1,17 +1,26 @@
-# pawly
+PawHaven - Pet Adoption & Foster Platform
 
-A new Flutter project.
+PawHaven is a cross platform mobile application developed with Flutter and Firebase, connecting animal rescuers, adopters, and pet shelters in a unified ecosystem.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Key Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Authentication & Profiles Secure email/password login and user management via Firebase Authentication.
+Animal Feed & Rescue Reporting: Browse pets available for adoption with rich filters and reporting workflows.
+Adoption & Foster Workflows:Dedicated structured application submission with environment, pet ownership, and schedule screening.
+Real-time Status Tracking:Dynamic applicant dashboard tracking application review statuses (Pending, Approved, Rejected) live from Cloud Firestore.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+ Tech Stack
+
+Frontend:Flutter & Dart
+Backend:Cloud Firestore, Firebase Authentication, Firebase Storage
+Architecture:Feature-first structure & Provider / State Management
+
+
+Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/PasanRasanjana/PawHaven-Mobile-App.git](https://github.com/PasanRasanjana/PawHaven-Mobile-App.git)
