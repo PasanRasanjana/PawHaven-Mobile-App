@@ -24,3 +24,9 @@ Getting Started
 1. Clone the repository:
    ```bash
    git clone [https://github.com/PasanRasanjana/PawHaven-Mobile-App.git](https://github.com/PasanRasanjana/PawHaven-Mobile-App.git)
+2.Navigate to project directory and fetch packages:
+Bash
+**cd PawHaven-Mobile-App
+**flutter pub get
+3.Bash
+flutter run
